@@ -4,7 +4,7 @@
 <br />
 
 # api-hafez
-api-hafez is a PHP Library for easy download of Hafez file along with audio file of Hafez fortune telling
+api-hafez is a PHP Library for easy download of hafez horoscope along with audio file of hafez horoscope fortune telling
 ## Installation
 ```
 1️⃣ Upload your host
